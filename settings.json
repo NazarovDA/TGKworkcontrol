@@ -1,0 +1,6 @@
+{
+    "telegram.exe":{
+        "root": "E:/Prorgams/Telegram Desktop/telegram.exe",
+        "file": "E:/Utilities/pythonProjects/TGKworkcontrol/logs.log"
+    }
+}
